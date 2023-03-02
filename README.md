@@ -1,2 +1,1 @@
-# git-basics-project
-Training
+# My first git project
